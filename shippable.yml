@@ -24,4 +24,11 @@ build:
     
   ci:
     - node --version
+    - grunt --version
+    - mocha --version   
+    - vows --version
+    - casperjs --version
+    - phantomjs --version
+    - bower --version
+    - npm --version    
    
